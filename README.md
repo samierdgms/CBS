@@ -10,7 +10,7 @@
 
 ---
 
-## 🇹🇷 Türkçe: Başlangıç ve Giriş
+## Başlangıç ve Giriş
 
 GeoApp; .NET 8 Web API katmanlı backend mimarisi, PostgreSQL/PostGIS mekansal veritabanı motoru, GeoServer WMS entegrasyonu ve OpenLayers tabanlı zengin React frontend ekosistemini bir araya getiren kurumsal düzeyde bir Coğrafi Bilgi Sistemi (CBS/GIS) otomasyon platformudur.
 
@@ -28,7 +28,7 @@ Proje, mikro-servis ve çok katmanlı yapısı gereği detaylı alt dokümantasy
 
 ---
 
-## 🇺🇸 English: Getting Started & Overview
+## Getting Started & Overview
 
 GeoApp is an enterprise-grade Geographic Information System (GIS) automation platform built around a high-performance layered .NET 8 Web API backend, a PostgreSQL/PostGIS spatial database engine, GeoServer WMS infrastructure, and a feature-rich React frontend driven by OpenLayers.
 
